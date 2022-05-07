@@ -2,9 +2,8 @@
 # Site
 
 title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
 baseurl: "/ecommerce-demo-msc" # the subpath of your site, e.g. /blog
-url: "https://isurunuwanthilaka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://isurunuwanthilaka.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics_key:
 google_maps_javascript_api_key:
 snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
@@ -36,19 +35,16 @@ collections:
 permalink: pretty
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "products"
     values:
       layout: "product"
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: "index.html"
     values:
       layout: "default"
