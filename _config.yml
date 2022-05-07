@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Fur
+title: Thilakawardhane
 baseurl: "/ecommerce-demo-msc" # the subpath of your site, e.g. /blog
 url: "https://isurunuwanthilaka.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics_key:
@@ -11,14 +11,14 @@ snipcart_currency: "usd"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Thilakawardhane Fasion House
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  name: isuru
+  email: isuru@thilakewardhane.lk
+  twitter: thilakewardhane # twitter username without the @ symbol
+  phone: "011 1234567"
 social:
-  name: Fur Template
+  name: Thilakawardhane Template
   links:
     - https://github.com/CloudCannon/fur-jekyll-template
 
