@@ -8,7 +8,7 @@ description_markdown: >-
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
+price: "9.00"
 sku: elephant
 stock: 10
 sizes:
@@ -18,9 +18,9 @@ sizes:
   - XL
 styles:
   - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/elephant/cream.jpg
+    color: "#dfd3c2"
+    image: /ecommerce-demo-msc/images/products/elephant/cream.jpg
   - name: Green
-    color: '#67aa79'
-    image: /images/products/elephant/green.jpg
+    color: "#67aa79"
+    image: /ecommerce-demo-msc/images/products/elephant/green.jpg
 ---

@@ -8,7 +8,7 @@ description_markdown: >-
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
+price: "9.00"
 sku: giraffe
 stock: 10
 sizes:
@@ -18,6 +18,6 @@ sizes:
   - XL
 styles:
   - name: Green
-    color: '#67aa79'
-    image: /images/products/giraffe/green.jpg
+    color: "#67aa79"
+    image: /ecommerce-demo-msc/images/products/giraffe/green.jpg
 ---

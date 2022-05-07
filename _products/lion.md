@@ -8,7 +8,7 @@ description_markdown: >-
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
+price: "9.00"
 sku: lion
 stock: 10
 sizes:
@@ -18,6 +18,6 @@ sizes:
   - XL
 styles:
   - name: Blue
-    color: '#39589e'
-    image: /images/products/lion/blue.jpg
+    color: "#39589e"
+    image: /ecommerce-demo-msc/images/products/lion/blue.jpg
 ---
